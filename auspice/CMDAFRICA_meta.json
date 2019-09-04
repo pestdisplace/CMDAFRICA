@@ -2,7 +2,7 @@
   "annotations": {
     "AC1": {
       "end": 2642,
-      "start": 1583,
+      "start": 1562,
       "strand": -1
     },
     "AC2": {
@@ -16,13 +16,18 @@
       "strand": -1
     },
     "AC4": {
-      "end": 2787,
-      "start": 2508,
+      "end": 2485,
+      "start": 2251,
       "strand": -1
+    },
+    "AV1": {
+      "end": 1105,
+      "start": 331,
+      "strand": 1
     },
     "AV2": {
       "end": 528,
-      "start": 225,
+      "start": 171,
       "strand": 1
     },
     "nuc": {
@@ -202,10 +207,6 @@
         "latitude": -15.53886,
         "longitude": 47.58445
       },
-      "boriziny": {
-        "latitude": -15.53,
-        "longitude": 47.58
-      },
       "bungoma": {
         "latitude": 0.716893067,
         "longitude": 34.62064837
@@ -225,6 +226,10 @@
       "chiconi": {
         "latitude": -12.83,
         "longitude": 45.114
+      },
+      "dembeni": {
+        "latitude": -12.805,
+        "longitude": 45.197
       },
       "diana": {
         "latitude": -13.4086,
@@ -262,7 +267,7 @@
         "latitude": -0.6932717,
         "longitude": 32.3754492
       },
-      "kani-keli": {
+      "kani_keli": {
         "latitude": -12.955,
         "longitude": 45.106
       },
@@ -485,7 +490,7 @@
     "map",
     "entropy"
   ],
-  "title": "Real-time tracking and evolution of cassava-infecting geminiviruses in Africa (DNA-A)",
-  "updated": "27 Aug 2019",
-  "virus_count": 318
+  "title": "Real-time tracking of Africa",
+  "updated": "04 Sep 2019",
+  "virus_count": 314
 }
