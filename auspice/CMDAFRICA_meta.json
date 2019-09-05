@@ -167,6 +167,10 @@
         "latitude": -12.204,
         "longitude": 44.51
       },
+      "ankerana": {
+        "latitude": -21.47,
+        "longitude": 47.7
+      },
       "anse_louis": {
         "latitude": -4.717,
         "longitude": 55.489
@@ -491,6 +495,6 @@
     "entropy"
   ],
   "title": "Real-time tracking of Africa",
-  "updated": "04 Sep 2019",
+  "updated": "05 Sep 2019",
   "virus_count": 314
 }
