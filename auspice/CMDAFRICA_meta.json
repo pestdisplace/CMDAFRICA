@@ -73,10 +73,6 @@
   ],
   "geo": {
     "country": {
-      "Kenya": {
-        "latitude": 3.62,
-        "longitude": 39.85
-      },
       "angola": {
         "latitude": -9.6265267,
         "longitude": 13.2658483
@@ -166,10 +162,6 @@
       "anjouan": {
         "latitude": -12.204,
         "longitude": 44.51
-      },
-      "ankerana": {
-        "latitude": -21.47,
-        "longitude": 47.7
       },
       "anse_louis": {
         "latitude": -4.717,
@@ -494,7 +486,7 @@
     "map",
     "entropy"
   ],
-  "title": "Real-time tracking and evolution of cassava-infecting geminiviruses in Africa (DNA-A)",
-  "updated": "05 Sep 2019",
+  "title": "Real-time tracking of cassava-infecting geminiviruses in Africa (DNA-A)",
+  "updated": "07 Sep 2019",
   "virus_count": 314
 }
